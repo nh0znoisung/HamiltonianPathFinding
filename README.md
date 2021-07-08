@@ -14,8 +14,8 @@ In briefly, the rule of this game is that we are given a grid 5x5 and an end poi
 ### Ideas
 In computer science perspective, it is quite easy to know that is Hamiltonian path finding problem and it is not have any clearly way to to solve this since it's a NP-problem. But with a computer we can solve this by try to draw all cases which means brute-forces. ALthough, this method costs time complexity O(n!), we still can reduce it a little bit by using `Backtracking Algorithm`. 
 
-[here]: https://www.tiktok.com/@its_tilton/video/6975274358059109637?lang=vi-VN&is_copy_url=1&is_from_webapp=v1
-After that, I continue watching more video about this topics and see this guy using `python` and `pygame modules` to visualize all the process that Backtracking algorithm do. You can see this video [here]. With this idea, I try to use `pygame` to visualize `Hamiltonian path` like that guy and update more advanced features as well as learning a little bit about python GUI.
+[right here]: https://www.tiktok.com/@its_tilton/video/6975274358059109637?lang=vi-VN&is_copy_url=1&is_from_webapp=v1
+After that, I continue watching more video about this topics and see this guy using `python` and `pygame modules` to visualize all the process that Backtracking algorithm do. You can see this video [right here]. With this idea, I try to use `pygame` to visualize `Hamiltonian path` like that guy and update more advanced features as well as learning a little bit about python GUI.
 
 ![image](Images/sample.png)
 
