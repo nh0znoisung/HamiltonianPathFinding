@@ -3,8 +3,9 @@
 ## About the project
 
 ### Inspiration
-In this summer 2021, suffering a boring day since COVID-19 pandemic so I can hang out with my friends, and instead of learning get internship as soon as possible I spend a little time for the social media (actually more than 4 hours per day) on Tiktok. Therefore, I have a chance to see a video about the challenge that I immensely impressive which named "Infamous 5x5 puzzle challenge" of "JMatt". You can see this video at 
 [here]: https://www.tiktok.com/music/Infamous-5x5-puzzle-challenge-6677155524129065734?is_copy_url=1&is_from_webapp=v1.
+In this summer 2021, suffering a boring day since COVID-19 pandemic so I can hang out with my friends, and instead of learning get internship as soon as possible I spend a little time for the social media (actually more than 4 hours per day) on Tiktok. Therefore, I have a chance to see a video about the challenge that I immensely impressive which named "Infamous 5x5 puzzle challenge" of "JMatt". You can see this video at [here]
+
 
 In briefly, the rule of this game is that we are given a grid 5x5 and an end point (black dot) at position (0,1). We can start at any dot in the graph and we have to hit all the dot. In connecting process, we can not do any diagonal line as well as can not repeat dot, or backtrack by crossing the line again or go outside the graph and we have to end at the black dot.
 
