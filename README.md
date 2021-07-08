@@ -3,7 +3,7 @@
 ## About the project
 
 ### Inspiration
-In this summer 2021, suffering a boring day since COVID-19 pandemic so I can hang out with my friends, and instead of learning get internship as soon as possible I spend a little time for the social media (actually more than 4 hours per day) on Tiktok. Therefore, I have a chance to see a video about the challenge that I immensely impressive which named "Infamous 5x5 puzzle challenge" of "JMatt". You can see this video at [here]("https://www.tiktok.com/music/Infamous-5x5-puzzle-challenge-6677155524129065734?is_copy_url=1&is_from_webapp=v1").
+In this summer 2021, suffering a boring day since COVID-19 pandemic so I can hang out with my friends, and instead of learning get internship as soon as possible I spend a little time for the social media (actually more than 4 hours per day) on Tiktok. Therefore, I have a chance to see a video about the challenge that I immensely impressive which named "Infamous 5x5 puzzle challenge" of "JMatt". You can see this video at [here]:"https://www.tiktok.com/music/Infamous-5x5-puzzle-challenge-6677155524129065734?is_copy_url=1&is_from_webapp=v1".
 
 In briefly, the rule of this game is that we are given a grid 5x5 and an end point (black dot) at position (0,1). We can start at any dot in the graph and we have to hit all the dot. In connecting process, we can not do any diagonal line as well as can not repeat dot, or backtrack by crossing the line again or go outside the graph and we have to end at the black dot.
 
@@ -12,7 +12,8 @@ In briefly, the rule of this game is that we are given a grid 5x5 and an end poi
 ### Ideas
 In computer science perspective, it is quite easy to know that is Hamiltonian path finding problem and it is not have any clearly way to to solve this since it's a NP-problem. But with a computer we can solve this by try to draw all cases which means brute-forces. ALthough, this method costs time complexity O(n!), we still can reduce it a little bit by using `Backtracking Algorithm`. 
 
-After that, I continue watching more video about this topics and see this guy using `python` and `pygame modules` to visualize all the process that Backtracking algorithm do. You can see this video [here]("https://www.tiktok.com/@its_tilton/video/6975274358059109637?lang=vi-VN&is_copy_url=1&is_from_webapp=v1"). With this idea, I try to use `pygame` to visualize `Hamiltonian path` like that guy and update more advanced features as well as learning a little bit about python GUI.
+After that, I continue watching more video about this topics and see this guy using `python` and `pygame modules` to visualize all the process that Backtracking algorithm do. You can see this video [here]:"https://www.tiktok.com/@its_tilton/video/6975274358059109637?lang=vi-VN&is_copy_url=1&is_from_webapp=v1"
+. With this idea, I try to use `pygame` to visualize `Hamiltonian path` like that guy and update more advanced features as well as learning a little bit about python GUI.
 
 ![image](Images/sample.png)
 
